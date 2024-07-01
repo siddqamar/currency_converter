@@ -16,6 +16,7 @@ This is currently an offline calculator. Users need to provide the conversion ra
 
 1. Ensure you have Python installed on your system.
 2. Install Streamlit using pip:
-3. 
+
+   
    ```bash
    pip install streamlit
