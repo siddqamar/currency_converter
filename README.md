@@ -17,10 +17,16 @@ This is a simple web-based currency converter application built using Streamlit.
    ```bash
    pip install streamlit
 
+## Usage
+1. Save the provided code to a Python file, e.g., currency_converter.py.
+2. Run the Streamlit application:
+
+
+```bash
+streamlit run currency_converter.py
+
+3. A web browser window will open displaying the Currency Converter application.
+
 ## Note
 
 This is currently an offline calculator. Users need to provide the conversion rates manually. In future updates, an API will be integrated to fetch the current exchange rates automatically.
-
-## Contributing
-
-Feel free to fork this repository and make modifications. Pull requests are welcome.
